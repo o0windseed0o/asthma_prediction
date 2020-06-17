@@ -16,4 +16,4 @@ sh run.sh
 code: a list (list of visits) of list (list of code in each visit) <br>
 time: a list (list of visits) of list (time to the first visit, time to the previous visit, time to the last visit) <br>
 You can choose any time you want or choose all <br>
-There is also a sample data in the data/ directory
+There is also a sample data in the data/ directory (compressed using pickle), you can load it using pkl.load
